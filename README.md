@@ -6,18 +6,6 @@ Enter your name and choose a color
 
 Click "JOIN BATTLE" and start playing!
 
-Run Locally
-bash
-# Clone the repository
-git clone https://github.com/yourusername/clash-io.git
-cd clash-io
-
-# Install dependencies
-npm install
-
-# Start the game server
-npm start
-
 # Open in browser: http://localhost:3000
 Deploy Your Own Instance
 https://render.com/images/deploy-to-render-button.svg
